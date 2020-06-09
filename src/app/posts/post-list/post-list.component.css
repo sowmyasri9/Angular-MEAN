@@ -11,3 +11,20 @@ margin:auto
 .info-text{
 text-align: center;
 }
+.post-image{
+    width:50%;
+    margin:auto
+}
+
+.post-image img{
+    height:400px;
+    width:100%;
+    margin:auto;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+  
+}
+
+
+mat-paginator{
+    margin-top:1rem;
+}
